@@ -16,6 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://myprtfl.github.io/about/" # the base hostname & protocol for your site
 # twitter_username: myprtfl
 github_username:  myprtfl
+# twitter_username: jekyllrb
 
 # Build settings
 markdown: kramdown
