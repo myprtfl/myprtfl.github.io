@@ -9,9 +9,7 @@
 title: myprtfl's Projects
 email: myprtfl@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  myprtfl's Projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://myprtfl.github.io/about/" # the base hostname & protocol for your site
 # twitter_username: myprtfl
@@ -20,3 +18,11 @@ github_username:  myprtfl
 
 # Build settings
 markdown: kramdown
+
+repository: 'git@github.com:/myprtfl/myprtfl.github.io.git'
+
+# Serving
+detach:  false
+port:    8080
+host:    0.0.0.0
+baseurl: "" # does not include hostname
